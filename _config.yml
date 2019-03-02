@@ -1,18 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Teamkita Media blogs
+description: Fsteam cyber indonesia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Teamkita.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Firdaus siregar
+user_description: hanya manusia yang ingin terus berkarya
+user_title: abang daus
+email: fsteamcyber@gmail.com
+twitter_username: @anak_dayo
+github_username:  mr614ck
+gplus_username:  #
+disqus_username: bgdaus
 
 # Build settings
 markdown: kramdown
@@ -30,13 +30,13 @@ compress_html:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Beranda
     url: /
-  - title: Series
+  - title: Seri
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: Tentang aku
     url: /about
 
 # exclude my node related stuff
